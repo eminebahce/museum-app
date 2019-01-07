@@ -1,9 +1,9 @@
 body {
-    background-color: #FFBA00;
+    background-color: #FA9483;
 }
 
 main {
-    background: white;
+    background: #F3DECA;
     font-family: 'Inconsolata', monospace;
     width: 90%;
     margin: auto;
@@ -13,10 +13,12 @@ main {
 
 h1 {
     margin: 3rem 1rem 6rem 1rem;
+    text-align: center;
 }
 
 h2 {
-    margin: auto 2rem;
+    margin: 1rem 2rem 1rem 2rem;
+    text-align: center;
 }
 
 #gallery {
