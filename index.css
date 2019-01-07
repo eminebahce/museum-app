@@ -1,0 +1,16 @@
+body {
+    background-color: #FFBA00;
+}
+
+main {
+    background: white;
+    font-family: 'Inconsolata', monospace;
+    width: 90%;
+    margin: auto;
+    border-radius: 5px;
+    padding: 2rem 0;
+}
+
+h1 {
+    margin: 3rem 1rem 6rem 1rem;
+}
