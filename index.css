@@ -31,3 +31,10 @@ h2 {
     max-height: 20rem;
     margin: 1rem;
 }
+
+footer {
+    margin: 3rem;
+    font-size: 1.2rem;
+    display: block;
+    text-align: center;
+}
